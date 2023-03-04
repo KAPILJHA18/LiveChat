@@ -1,0 +1,2 @@
+# for node modules
+/client-app/node_modules

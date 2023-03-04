@@ -1,4 +1,4 @@
-# LiveChat
+# Live Chat
 
 ## Frontend
   - React ( functional component )
@@ -13,6 +13,13 @@
   - Live chat Socket.io (socket.io-client)
   - Show user online and offline
   
+## Backend
+  - Node JS
+  - Express
+  - Socket.io
+  - MongoDB
+  - JWT Auth token ( Guest token in future )
+  - Cookie base authentication
 
 ## Git Cheat Sheet
 > https://education.github.com/git-cheat-sheet-education.pdf

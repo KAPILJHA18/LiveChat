@@ -20,6 +20,7 @@
   - MongoDB
   - JWT Auth token ( Guest token in future )
   - Cookie base authentication
+  - SSO
 
 ## Git Cheat Sheet
 > https://education.github.com/git-cheat-sheet-education.pdf

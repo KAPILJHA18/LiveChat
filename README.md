@@ -14,8 +14,7 @@
   > Online user and offline user
   
 
-## Git User
-### Commit
-    > git pull / git pull origin main
+## Git Cheat Sheet
+> https://education.github.com/git-cheat-sheet-education.pdf
     
     

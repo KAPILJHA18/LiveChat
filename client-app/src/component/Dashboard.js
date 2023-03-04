@@ -6,8 +6,8 @@ import SideBar from './SideBar'
 function Dashboard() {
   return (
     <div>
-        <Header/>
-        <SideBar/>
+        <Header />
+        <SideBar /> 
         <MainContent/>
     </div>
   )
